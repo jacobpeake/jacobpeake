@@ -1,1 +1,1 @@
-_gpus | chips | deep learning_
+_i like chips & deep learning_
